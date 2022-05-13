@@ -17,5 +17,3 @@ function getRandomNumber(){
   return Math.floor(Math.random()* hex.length);
 }
 
-
-
